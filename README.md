@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Afifa Atira**.\
+Perkenalkan nama saya **Afifa Atira**.
 
 Saya pernah mengikutin bootcamp Web Development Path yang diadakan oleh [Progate](https://progate.com/).
 
