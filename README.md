@@ -1,10 +1,15 @@
-# Halo semua! 
+# Afifa Atira
 
-Perkenalkan nama saya **Afifa Atira**.
+Hi there! My name is **Afifa Atira**. I'm a college student from [Universitas Singaperbangsa Karawang](https://unsika.ac.id/). Currently interested on UI/UX Design and Front-End Web.
 
-Saya pernah mengikutin bootcamp Web Development Path yang diadakan oleh [Progate](https://progate.com/).
+- 🌱 I'm currently learning UI/UX Design and Front-End Web.
+- 🥅 Enthusiast for learning something new.
+- ⚡ Fun fact: I love to drawing, watching animes, also movies.
 
-Selain itu, saya sedang mengikuti kelas Pengembang Front-End dan Back-End yang diadakan oleh Kemendikbudristek di [Dicoding](https://www.dicoding.com/).
+### 📫 Contact Me
+- Instagram - [@afifaarn_](https://www.instagram.com/afifaarn_/)
+- LinkedIn - [Afifa Atira](https://www.linkedin.com/in/afifa-atira-535b951a3/)
+- Facebook - [Afifa Atira](https://www.facebook.com/afifa.atira.9)
 
 <p align="left">
 <a href="https://github.com/arinnf">
